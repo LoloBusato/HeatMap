@@ -1,0 +1,15 @@
+.graph {
+  background-color: gray;
+}
+#graphConteiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#tooltip {
+  background-color: navy;
+  color: white;
+  padding: 0 20px;
+  text-align: center;
+}
